@@ -28,5 +28,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         viewById.setTextColor(getColor(R.color.colorAccent));
         viewById.setBackgroundResource(R.mipmap.ic_launcher);
 
+        viewById.setText("qqqqqqq");
+        viewById.setText("WWWWWW");
+        viewById.setText("ssssssss");
+
+
+
     }
 }
