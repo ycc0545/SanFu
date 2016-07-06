@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
         viewById.setText("qqq");
+        viewById.setTextColor(getColor(R.color.colorAccent));
     }
 }
